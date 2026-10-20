@@ -1,0 +1,19 @@
+Estoy desarrollando un proyecto sencillo en JavaFX.
+
+El funcionamiento esperado es:
+
+1. El estudiante hace clic en "Solicitar saludo".
+2. El sistema solicita nombre, edad y hora (AM/PM).
+3. El estudiante ingresa los datos solicitados.
+4. El sistema muestra un saludo utilizando el nombre del estudiante y mencionando su edad.
+
+Quiero que me indiques qué estructura de carpetas y clases debería utilizar para este proyecto JavaFX, siguiendo una estructura sencilla y adecuada para un proyecto académico.
+
+NO implementes código. Solo explícame:
+
+* Qué carpetas debería tener.
+* Qué clases debería crear.
+* Para qué serviría cada clase.
+* Qué responsabilidad tendría cada clase.
+
+Quiero evitar una estructura demasiado compleja o innecesaria para este proyecto.

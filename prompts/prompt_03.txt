@@ -1,0 +1,17 @@
+Modifica mi aplicación JavaFX actual para que, además de solicitar el nombre y la edad, permita ingresar la hora exacta en formato de 12 horas (horas y minutos) y seleccionar AM o PM.
+
+Requisitos:
+
+* Valida que la hora esté entre 1 y 12 y que los minutos estén entre 0 y 59.
+
+* Utiliza la hora ingresada para determinar si corresponde saludar con "Buenos días", "Buenas tardes" o "Buenas noches".
+
+* Muestra el saludo personalizado con el nombre y la edad del estudiante.
+
+* Mantén la estructura de carpetas y las responsabilidades de las clases existentes.
+
+* Conserva el código que ya funciona y modifica únicamente lo necesario.
+
+* Maneja las entradas inválidas y permite al usuario corregirlas.
+
+* Al finalizar, verifica que el proyecto compile y explícame los cambios realizados.

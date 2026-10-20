@@ -1,0 +1,31 @@
+Implementa el código completo de mi proyecto `sistema-saludador` en JavaFX, utilizando la estructura de carpetas y clases que me sugeriste anteriormente.
+
+**Requerimientos funcionales:**
+
+1. La aplicación debe mostrar una interfaz gráfica con un botón llamado "Solicitar saludo".
+2. Cuando el estudiante haga clic en el botón, el sistema debe solicitar los siguientes datos:
+   - Nombre del estudiante.
+   - Edad del estudiante.
+   - Hora del día, indicando si es AM o PM.
+3. El sistema debe validar que los datos ingresados sean correctos y que la edad sea un número entero válido.
+4. Una vez ingresados los datos, el sistema debe mostrar un saludo personalizado que incluya el nombre del estudiante y su edad, teniendo en cuenta la hora seleccionada (AM o PM).
+5. Si el estudiante cancela el ingreso de datos o introduce información inválida, la aplicación debe manejar la situación adecuadamente y permitirle intentarlo nuevamente.
+
+**Requisitos técnicos:**
+
+- Utiliza Java y JavaFX.
+- Respeta la estructura de carpetas y las responsabilidades de las clases propuestas anteriormente.
+- Utiliza `MainApp.java` como punto de entrada y el controlador correspondiente para gestionar las interacciones de la interfaz.
+- Mantén el código sencillo, organizado y fácil de comprender para un estudiante universitario.
+- Configura `pom.xml` con las dependencias y los complementos necesarios para ejecutar el proyecto con Maven y JavaFX.
+- No agregues bases de datos, archivos externos ni dependencias innecesarias.
+- Si la estructura actual requiere ajustes para que la aplicación funcione, realízalos sin eliminar código útil.
+
+**Al finalizar:**
+
+1. Implementa todos los archivos necesarios.
+2. Verifica que el proyecto compile correctamente.
+3. Comprueba que la aplicación pueda ejecutarse mediante Maven.
+4. Indícame el comando exacto para ejecutarla.
+
+No te limites a mostrar fragmentos de código: realiza los cambios directamente en los archivos del proyecto y deja la aplicación lista para ejecutarse.
