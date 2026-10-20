@@ -16,11 +16,10 @@ Desde la carpeta `sistema-saludador`:
 mvn clean javafx:run
 ```
 
-En PowerShell, si Maven o Java no se encuentran, puedes usar:
+Si Maven no se encuentra instalado, puedes usar:
 
 ```powershell
-$env:JAVA_HOME = "C:\Program Files\Java\jdk-25.0.4.1"
-mvn clean javafx:run
+.\mvnw.cmd clean javafx:run
 ```
 
 ## Uso
