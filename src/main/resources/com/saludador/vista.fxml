@@ -20,7 +20,7 @@
         </font>
     </Label>
 
-    <Label text="Haz clic en el botón para que el sistema te solicite tus datos y te salude."
+    <Label text="Haz clic en el botón para ingresar tus datos, la hora exacta y recibir un saludo."
            wrapText="true"
            style="-fx-text-alignment: center;"/>
 
